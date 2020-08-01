@@ -1,7 +1,7 @@
 MultiWalk
 =============
 
-This is a graph computing implement of network embedding algorithm [DeepWalk](https://arxiv.org/abs/1403.6652) and is based on [GraphLite](https://github.com/schencoding/GraphLite/tree/master/GraphLite-0.20). In a short word, it uses GraphLite to compute the [random walk sequence](https://www.investopedia.com/terms/r/randomwalktheory.asp).  
+This is a graph computing implementation of network embedding algorithm [DeepWalk](https://arxiv.org/abs/1403.6652) and is based on [GraphLite](https://github.com/schencoding/GraphLite/tree/master/GraphLite-0.20). In a short word, it uses GraphLite to compute the [random walk sequence](https://www.investopedia.com/terms/r/randomwalktheory.asp).  
 
 ## Prerequisites
 
